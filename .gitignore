@@ -1,1 +1,7 @@
-Proyecto/Data
+#Ignore all data except specific folders
+Proyecto/Data/*
+
+!Proyecto/Data/CK/
+Proyecto/Data/CK/*/*.plq
+
+
