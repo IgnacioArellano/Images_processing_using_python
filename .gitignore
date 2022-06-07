@@ -1,8 +1,8 @@
 #Ignore all data except specific folders
 Proyecto/Data/*
-
 !Proyecto/Data/CK/
 Proyecto/Data/CK/*/*.plq
 Proyecto/Data/CK/2
 
-
+ANN_RedesNeuronales/Pokedex/trainData/*
+ANN_RedesNeuronales/Pokedex/testData/*
