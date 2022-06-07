@@ -6,3 +6,5 @@ Proyecto/Data/CK/2
 
 ANN_RedesNeuronales/Pokedex/trainData/*
 ANN_RedesNeuronales/Pokedex/testData/*
+
+*.zip

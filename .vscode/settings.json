@@ -1,4 +1,8 @@
 {
     "jupyter.allowUnauthorizedRemoteConnection": true,
+<<<<<<< HEAD
     "jupyter.jupyterServerType": "remote"
+=======
+    "jupyter.jupyterServerType": "local"
+>>>>>>> 1f5df467f2f2b0d0289b654f913eb3a87be50acf
 }
